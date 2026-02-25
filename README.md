@@ -4,8 +4,6 @@ Name: Muhammad Ghulam Abbas
 
 ID: 29417
 
-Assignment: Assignment 2
-
 Course: Generative AI
 
 Semester: Spring 2026
